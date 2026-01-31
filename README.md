@@ -1,4 +1,4 @@
-# SDL2 Calculator in C
+# SDL2 Calculator em C
 <img width="322" height="507" alt="Calculadora SDL2" src="https://github.com/user-attachments/assets/aa7d8541-5fc1-480f-8666-85de3c24ccb0" />
 
 Uma calculadora de alto desempenho desenvolvida em linguagem C utilizando a biblioteca gráfica **SDL2** e **SDL_ttf**. O projeto foca em eficiência, baixo consumo de memória e uma interface minimalista e funcional.
